@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Currently listening to 🎧
+[<img src="https://spotify-now-playing-matthewl-sudo.vercel.app/api/spotify" alt="Matthewl-sudo Spotify Playing" width="650"/>](https://open.spotify.com/user/22zr4phollr2hxmjqe5lngvci)
+
 <!--
 **matthewl-sudo/matthewl-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
