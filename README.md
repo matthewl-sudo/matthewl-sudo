@@ -1,6 +1,6 @@
 &nbsp;<div align="center">
-### Hey 👋 I'm Matt
-##### Full Stack Developer 👨🏻‍💻 | Cat Father 🐈 | Murder Mystery Reader 🕵🏻‍♂️
+# Hey 👋 I'm Matt
+## Full Stack Developer 👨🏻‍💻 | Cat Father 🐈 | Murder Mystery Reader 🕵🏻‍♂️
 <div/>
 
 &nbsp;<div align="center">
